@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Test with different endpoints
+curling url
+junit test
+build jar from command line
